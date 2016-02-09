@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.zeyouwu.com/"/>
-  <updated>2016-02-09T10:12:11.000Z</updated>
+  <updated>2016-02-09T08:24:14.000Z</updated>
   <id>http://blog.zeyouwu.com/</id>
   
   <author>
@@ -14,22 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://blog.zeyouwu.com/2016/02/09/test/"/>
-    <id>http://blog.zeyouwu.com/2016/02/09/test/</id>
-    <published>2016-02-09T10:12:11.000Z</published>
-    <updated>2016-02-09T10:12:11.000Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World, Joe!</title>
