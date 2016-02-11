@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Joe Wu&#39;s Blog</title>
-  
+  <subtitle>时间会走，我不走</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.zeyouwu.com/"/>
