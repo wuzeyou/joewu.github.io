@@ -427,8 +427,8 @@ a {
     opacity: 1;
   }
   #container .instagram .open-ins {
-    left: 2px;
-    top: -30px;
+    right: 2px;
+    top: -65px;
     color: #aaa;
   }
   #container .info-on-right {

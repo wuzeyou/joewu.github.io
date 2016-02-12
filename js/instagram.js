@@ -90,7 +90,7 @@ var Instagram = (function(){
 					if(next){
 						getList(next);
 					}else{
-						$(".open-ins").html("图片来自instagram，点此访问");
+						$(".open-ins").html("图片同步自instagram");
 						ctrler(_collection);
 					}
 				}else{
