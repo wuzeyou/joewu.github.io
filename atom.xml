@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.zeyouwu.com/"/>
-  <updated>2016-04-03T08:41:14.000Z</updated>
+  <updated>2016-04-03T08:47:06.000Z</updated>
   <id>http://blog.zeyouwu.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://blog.zeyouwu.com/2016/04/03/new-start/"/>
     <id>http://blog.zeyouwu.com/2016/04/03/new-start/</id>
     <published>2016-04-03T07:35:51.000Z</published>
-    <updated>2016-04-03T08:41:14.000Z</updated>
+    <updated>2016-04-03T08:47:06.000Z</updated>
     
     <content type="html">&lt;p&gt;断断续续，在克服拖延症的道路上蹒跚了几个月之后，终于选定了这个 hexo 博客的主题，并把之前 wordpress 上的文章也导过来了。其实现在看看这些写在青春期的矫情文字，真是十分害臊的。但是想想自己还写过更多比这些更令人尴尬的文字也没发上来，也就释然了。反正以后要是出名了，这些也可以算作人生污点，不然被挖出来其他更丢人的事怎么办。&lt;/p&gt;
-&lt;p&gt;其实写这篇也就是想作为一个大大的&lt;strong&gt;分割线&lt;/strong&gt;。你们看之前的文字最晚也是12年的了，现在仔细回想下，好像这快四年的时间里真的也没有写过任何的长文了。整天就在微博里卖萌抖机灵，然后看着自己离“成为一个写字的”人生目标越走越远越走越偏，直到现在莫名其妙也别无选择成为了一个“写代码的”，心里也是怪不好意思的。所以差不多一年前，就寻思着可以开始写博客了——所以你们看，我拖延症也不是太严重不是，才一年时间就写出这么篇随笔来了——万一哪天红了，我也就可以把写代码的活儿丢到一边专心 &lt;del&gt;当网红&lt;/del&gt; 写文章了不是吗？&lt;/p&gt;
+&lt;p&gt;其实写这篇也就是想作为一个大大的&lt;strong&gt;分割线&lt;/strong&gt;。你们看之前的文字最晚也是12年的了，现在仔细回想下，好像这快四年的时间里真的也没有写过任何的长文了。整天就在微博里卖萌抖机灵，然后看着自己离“成为一个写字的”人生目标越走越远越走越偏，直到现在莫名其妙也别无选择成为了一个“写代码的”，心里也是怪不好意思的。所以差不多一年前，就寻思着可以开始写博客了——所以你们看，我拖延症也没太严重不是，才一年时间就写出这么篇随笔来了——万一哪天红了，我也就可以把写代码的活儿丢到一边专心 &lt;del&gt;当网红&lt;/del&gt; 写文章了不是吗？&lt;/p&gt;
 &lt;p&gt;所以写了这么多，到底跟&lt;strong&gt;分割线&lt;/strong&gt;有什么关系呢？其实我也没搞明白。我就是想说明，这篇文章以前的，那都是青春期小屁孩儿的无病呻吟，大家如果已经万分不幸地来到了贵博客，就千万别看这篇之前的文章了，那都是我留着给自己害臊用的，怕恶心到大家的胃，真心的。&lt;/p&gt;
 &lt;p&gt;那这篇之后的文章呢？都没写呢，我哪知道。&lt;/p&gt;
 &lt;p&gt;反正计划里，我先试着翻译平时看到的好文章，主题么，估计不是科技相关就是游戏相关。毕竟在我“成为一个写字的”这个奢望之下的第一志愿就是当个科技记者。心里想着，万一以后公司倒闭了，我这个伪程序员找不到工作了，肯定会想去应聘这类的差事，到时候这个博客兴许可以加点儿分。更新频率么，看我有多懒吧，估计也是半年更的节奏。&lt;/p&gt;
@@ -39,33 +39,6 @@
     
     
       <category term="随笔" scheme="http://blog.zeyouwu.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World, Joe!</title>
-    <link href="http://blog.zeyouwu.com/2016/02/09/hello-world/"/>
-    <id>http://blog.zeyouwu.com/2016/02/09/hello-world/</id>
-    <published>2016-02-09T08:24:14.000Z</published>
-    <updated>2016-02-09T08:24:14.000Z</updated>
-    
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick_Start&quot;&gt;&lt;a href=&quot;#Quick_Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create_a_new_post&quot;&gt;&lt;a href=&quot;#Create_a_new_post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run_server&quot;&gt;&lt;a href=&quot;#Run_server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate_static_files&quot;&gt;&lt;a href=&quot;#Generate_static_files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy_to_remote_sites&quot;&gt;&lt;a href=&quot;#Deploy_to_remote_sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
     
   </entry>
   
