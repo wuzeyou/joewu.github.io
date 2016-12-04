@@ -464,25 +464,24 @@ article .container .row .video-container embed {
   margin-top: 0;
 }
 article .container .row blockquote {
-  font-style: italic;
   font-family: "Georgia", serif;
   font-size: 1em;
   padding: 0 30px 15px;
   text-align: left;
 }
-article .container .row blockquote footer {
+color #777 footer {
   border-top: none;
   font-size: 0.8em;
   line-height: 1;
   margin: 20px 0 0;
   padding-top: 0;
 }
-article .container .row blockquote footer cite:before {
+color #777 footer cite:before {
   content: '—';
   color: #ccc;
   padding: 0 0.5em;
 }
-article .container .row .pullquote {
+.pullquote {
   float: right;
   border: none;
   padding: 0;
@@ -491,7 +490,7 @@ article .container .row .pullquote {
   width: 45%;
   font-size: 1.5em;
 }
-article .container .row .pullquote.left {
+.pullquote.left {
   float: left;
 }
 figure.highlight {
