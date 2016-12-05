@@ -43,6 +43,9 @@ p a,
 li a {
   text-decoration: underline;
 }
+blockquote p {
+  color: #777;
+}
 h1,
 h2,
 h3,
